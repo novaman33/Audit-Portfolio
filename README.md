@@ -1,9 +1,9 @@
-# Audit Portfolio - [Your Name or Alias]
+# Audit Portfolio - 0xnovaman33
 
 You can reach out for security consultancy and reviews via:
 
-- **X (Twitter):** @[Your Handle]
-- **Discord:** @[Your Handle]
+- **X (Twitter):** @0xnovaman33
+- **Discord:** @0xnovaman33
 
 For private audits, I can be contacted through Twitter or Discord.
 
@@ -13,7 +13,7 @@ For private audits, I can be contacted through Twitter or Discord.
 
 | **Findings**                  | **Results**     |
 |:-------------------------------|:----------------|
-| [High Count] High [Medium Count] Medium [Low Count] Low | $[Total Payout] |
+| 22 High 12 Medium 2 Low | $21,812.33 |
 
 ---
 
