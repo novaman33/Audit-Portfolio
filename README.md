@@ -13,7 +13,7 @@ For private audits, I can be contacted through Twitter or Discord.
 
 | **Findings**                  | **Results**     |
 |:-------------------------------|:----------------|
-| 22 High 12 Medium 2 Low | $21,812.33 |
+| 24 High 15 Medium 2 Low | $22,599.312 |
 
 ---
 
@@ -21,7 +21,8 @@ For private audits, I can be contacted through Twitter or Discord.
 
 | **Date**       | **Contest**                        | **Platform**                  | **Findings**              | **Payout**   |
 |:---------------|:-----------------------------------|:------------------------------|:--------------------------|:-------------|
-| Jul 2024   | LoopFi                  | Code4rena              | 4 High 5 Medium  2 Low     | $16,509.76    |
+| Sep 2024   | Flayer                  | Sherlock              | 2 High 3 Medium     | $784.42   |
+| Aug 2024   | LoopFi                  | Code4rena              | 4 High 5 Medium  2 Low     | $16,509.76    |
 | Jul 2024   | MagicSea - the native DEX on the IotaEVM                  | Sherlock              | 2 High 2 Medium        | $73.78    |
 | Jun 2024   | Notional Leveraged Vaults: Pendle PT and Vault Incentives                 | Sherlock              | 2 High        | $2,334.95   |
 | May 2024   | LoopFi                  | Code4rena              | 1 High   | $386.08   |
