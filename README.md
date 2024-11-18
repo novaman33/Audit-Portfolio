@@ -36,6 +36,4 @@ For private audits, I can be contacted through Twitter or Discord.
 
 ---
 
-### Notes:
-- **Findings Summary Format:** `[High Count] High [Medium Count] Medium [Low Count] Low [+ Optional Analysis]`
-- **Payout Format:** `$[Payout Amount]`
+
