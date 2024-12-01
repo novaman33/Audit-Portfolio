@@ -3,7 +3,7 @@
 You can reach out for security consultancy and reviews via:
 
 - **X (Twitter):** @0xnovaman33
-- **Discord:** @0xnovaman33
+- **Discord:** novamanbg
 
 For private audits, I can be contacted through Twitter or Discord.
 
