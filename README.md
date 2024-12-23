@@ -13,14 +13,17 @@ For private audits, I can be contacted through Twitter or Discord.
 
 | **Findings**                  | **Results**     |
 |:-------------------------------|:----------------|
-| 24 High 15 Medium 2 Low | $22,599.312 |
+| 34 High 16 Medium 2 Low | $28,511.98 |
 
 ---
 
 ## Audit History
 
-| **Date**       | **Contest**                        | **Platform**                  | **Findings**              | **Payout**   |
+| **Date**       | **Contest**                        | **Platform**                  | **Findings**              | **Payout in USD**   |
 |:---------------|:-----------------------------------|:------------------------------|:--------------------------|:-------------|
+| Nov 2024   | Extra Finance                | Sherlock              | 1 High    | $4,162.50  |
+| Nov 2024   | Chiliz Chain System Contracts                  | Sherlock              | 4 High    | $808.18  |
+| Oct 2024   | StakeUp                  | Cantina              | 5 High 1 Medium     | $942.30   |
 | Sep 2024   | Flayer                  | Sherlock              | 2 High 3 Medium     | $784.42   |
 | Aug 2024   | LoopFi                  | Code4rena              | 4 High 5 Medium  2 Low     | $16,509.76    |
 | Jul 2024   | MagicSea - the native DEX on the IotaEVM                  | Sherlock              | 2 High 2 Medium        | $73.78    |
