@@ -13,7 +13,7 @@ For private audits, I can be contacted through Twitter or Discord.
 
 | **Findings**                  | **Results**     |
 |:-------------------------------|:----------------|
-| 34 High 16 Medium 2 Low | $28,511.98 |
+| 50+ H/M findings | over $30,000 made from contests |
 
 ---
 
@@ -21,6 +21,7 @@ For private audits, I can be contacted through Twitter or Discord.
 
 | **Date**       | **Contest**                        | **Platform**                  | **Findings**              | **Payout in USD**   | **Links to top 3 scores**       |
 |:---------------|:-----------------------------------|:------------------------------|:--------------------------|:--------------------|:----------------|
+| Dec 2024   | Extra Finance                | Sherlock              | 2 Medium                      | $1,928.25              | [4th place](https://audits.sherlock.xyz/contests/571)       |
 | Nov 2024   | Extra Finance                | Sherlock              | 1 High                      | $4,162.50               | [3rd place](https://audits.sherlock.xyz/contests/380?filter=results)       |
 | Nov 2024   | Chiliz Chain System Contracts                  | Sherlock              | 4 High                     | $808.18                 |      |
 | Oct 2024   | StakeUp                  | Cantina              | 5 High 1 Medium             | $942.30                  |     |
