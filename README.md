@@ -11,15 +11,15 @@ For private audits, I can be contacted through Twitter or Discord.
 
 ## Total Results
 
-| **Findings**                  | **Results**     |
-|:-------------------------------|:----------------|
-| 50+ H/M findings | over $30,000 made from contests |
+| **Findings**                  | **Results**     | **Audit Contests**     | **Private Audits**                  |
+|:-------------------------------|:----------------|:----------------|:----------------|
+| 100+ H/M findings | over $30,000 made from public contests |Participated in over 20 contests|10+ private engagements|
 
 ---
 
-## Full Audit Competition History
+## Audit Competition History
 
-| **Date**       | **Contest**                        | **Platform**                  | **Findings**              | **Payout in USD**   | **Links to top scores**       |
+| **Date**       | **Contest**                        | **Platform**                  | **Findings**              | **Ranking**   | **Links to top scores**       |
 |:---------------|:-----------------------------------|:------------------------------|:--------------------------|:--------------------|:----------------|
 | Jan 2025  | Zaros Part 2              | CodeHawks              | 8 High 3 Medium                    | 7th            |        |
 | Dec 2024   | Idle Finance Credit Vaults             | Sherlock              | 2 Medium                      | 4th             | [4th place](https://audits.sherlock.xyz/contests/571)  
@@ -41,4 +41,22 @@ For private audits, I can be contacted through Twitter or Discord.
 
 ---
 
+## Private Engagements
 
+| **Date**       | **Project Name**                        | **Provider**                  | **Report**              | 
+|:---------------|:-----------------------------------|:------------------------------|:--------------------------|
+| Jan 2025  | Liquify    | BailSec                 |   [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Liquify%20-%20Final%20Report.pdf)  |  
+| Feb 2025  | Kernel    | BailSec                 |   To be disclosed  |      
+| Feb 2025  | EarningsBay    | BailSec                 |   To be disclosed  |    
+| Mar 2025  | Nome    | BailSec                 |  [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Nome%20-%20Final%20Report.pdf)  |  
+| Mar 2025  | SPRO    | BailSec                 |  To be disclosed  |  
+| Mar 2025  | Lista Lending    | BailSec                 |  [Report](https://github.com/lista-dao/moolah/blob/master/docs/audits/Bailsec-ListaLending-AuditReport-20250410.pdf)  |  
+| Apr 2025  | Inception LRT    | BailSec                 |  To be disclosed  |  
+| Apr 2025  | Nome StabFundV2    | BailSec                 |  To be disclosed  |  
+| Apr 2025  | H3rmes    | BailSec                 |  To be disclosed  |  
+| Apr 2025  | 1inch - Taker Fees    | BailSec                 |  To be disclosed  | 
+| Apr 2025  | Atlantis   | BailSec                 |  To be disclosed  | 
+| May 2025  | Lista Providers   | BailSec                 |  To be disclosed  | 
+| May 2025  | GogoPool   | BailSec                 |  To be disclosed  | 
+
+---
