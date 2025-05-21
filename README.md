@@ -17,27 +17,27 @@ For private audits, I can be contacted through Twitter or Discord.
 
 ---
 
-## Audit History
+## Full Audit Competition History
 
-| **Date**       | **Contest**                        | **Platform**                  | **Findings**              | **Payout in USD**   | **Links to top 3 scores**       |
+| **Date**       | **Contest**                        | **Platform**                  | **Findings**              | **Payout in USD**   | **Links to top scores**       |
 |:---------------|:-----------------------------------|:------------------------------|:--------------------------|:--------------------|:----------------|
-| Dec 2024   | Extra Finance                | Sherlock              | 2 Medium                      | $1,928.25              | [4th place](https://audits.sherlock.xyz/contests/571)       |
-| Nov 2024   | Extra Finance                | Sherlock              | 1 High                      | $4,162.50               | [3rd place](https://audits.sherlock.xyz/contests/380?filter=results)       |
-| Nov 2024   | Chiliz Chain System Contracts                  | Sherlock              | 4 High                     | $808.18                 |      |
-| Oct 2024   | StakeUp                  | Cantina              | 5 High 1 Medium             | $942.30                  |     |
-| Sep 2024   | Flayer                  | Sherlock              | 2 High 3 Medium             | $784.42                  |       |
-| Aug 2024   | LoopFi                  | Code4rena              | 4 High 5 Medium 2 Low       | $16,509.76               | [2nd place](https://code4rena.com/audits/2024-07-loopfi)       |
-| Jul 2024   | MagicSea - the native DEX on the IotaEVM                  | Sherlock              | 2 High 2 Medium             | $73.78                  |        |
-| Jun 2024   | Notional Leveraged Vaults: Pendle PT and Vault Incentives                 | Sherlock              | 2 High                     | $2,334.95               | [3rd place](https://audits.sherlock.xyz/contests/446?filter=results)       |
-| May 2024   | LoopFi                  | Code4rena              | 1 High                      | $386.08                  |     |
-| Apr 2024   | NOYA                | Code4rena              | 1 High 2 Medium             | $2.38                    |      |
-| Apr 2024   | Zivoe               | Sherlock              | 1 High                      | $2.24                    |       |
-| Mar 2024   | Axis Finance                 | Sherlock              | 4 High 1 Medium             | $1,629.39               |     |
-| Mar 2024   | Zap Protocol                 | Sherlock              | 1 High                      | $9.97                    |        |
-| Mar 2024   | Revert Lend                 | Code4rena              | 2 High 1 Medium             | $742.93                  |        |
+| Jan 2025  | Zaros Part 2              | CodeHawks              | 8 High 3 Medium                    | 7th            |        |
+| Dec 2024   | Idle Finance Credit Vaults             | Sherlock              | 2 Medium                      | 4th             | [4th place](https://audits.sherlock.xyz/contests/571)  
+| Dec 2024   | Numa           | Sherlock              | 1 High                      | 10th             | [4th place](https://audits.sherlock.xyz/contests/571)   
+| Nov 2024   | Extra Finance                | Sherlock              | 1 High                      | 🥉             | [3rd place](https://audits.sherlock.xyz/contests/380?filter=results)       |
+| Nov 2024   | Chiliz Chain System Contracts                  | Sherlock              | 4 High                     |   15th             |      |
+| Nov 2024   | vVv Launchpad - Investments & Token distribution                  | Sherlock              | 1 High                     |  🥇            |  [1st place](https://github.com/sherlock-audit/2024-11-vvv-exchange-update-judging/issues/26)    |
+| Oct 2024   | StakeUp                  | Cantina              | 5 High 1 Medium             | 15th                 |     |
+| Sep 2024   | Flayer                  | Sherlock              | 2 High 3 Medium             | 17th                  |       |
+| Aug 2024   | LoopFi                  | Code4rena              | 4 High 5 Medium 2 Low       | 🥈            | [2nd place](https://code4rena.com/audits/2024-07-loopfi)       |
+| Jul 2024   | MagicSea - the native DEX on the IotaEVM                  | Sherlock              | 2 High 2 Medium             | 30th                 |        |
+| Jun 2024   | Notional Leveraged Vaults: Pendle PT and Vault Incentives                 | Sherlock              | 2 High                     | 🥉               | [3rd place](https://audits.sherlock.xyz/contests/446?filter=results)       |
+| May 2024   | LoopFi                  | Code4rena              | 1 High                      | 🥉                |    [3rd place](https://code4rena.com/audits/2024-05-loopfi) |
+| Mar 2024   | Axis Finance                 | Sherlock              | 4 High 1 Medium             | 8th               |     |
+| Mar 2024   | Zap Protocol                 | Sherlock              | 1 High                      | 12th                 |        |
+| Mar 2024   | Revert Lend                 | Code4rena              | 2 High 1 Medium             | 17th                |        |
 | Feb 2024   | AI Arena                    | Code4rena            | 3 High                      | $1.22                    |        |
-| Jan 2024   | Flat Money                   | Sherlock              | 1 High 1 Medium             | $122.01                  |       |
-
+| Jan 2024   | Flat Money                   | Sherlock              | 1 High 1 Medium             | 12th                 |       |
 
 ---
 
