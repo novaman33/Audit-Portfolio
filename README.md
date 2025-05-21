@@ -36,7 +36,6 @@ For private audits, I can be contacted through Twitter or Discord.
 | Mar 2024   | Axis Finance                 | Sherlock              | 4 High 1 Medium             | 8th               |     |
 | Mar 2024   | Zap Protocol                 | Sherlock              | 1 High                      | 12th                 |        |
 | Mar 2024   | Revert Lend                 | Code4rena              | 2 High 1 Medium             | 17th                |        |
-| Feb 2024   | AI Arena                    | Code4rena            | 3 High                      | $1.22                    |        |
 | Jan 2024   | Flat Money                   | Sherlock              | 1 High 1 Medium             | 12th                 |       |
 
 ---
