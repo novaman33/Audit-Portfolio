@@ -60,6 +60,11 @@ For private audits, I can be contacted through Twitter or Discord.
 
 ---
 ## Interesting Issues
+
 https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/14
+
+https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/6?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExU1ZHVjh2OVp6RUJMRk85VQEe8CywNv--L-8mA0PZDb1ZLhH5m7-t_GHCnYZvVaH5V4eqUNGUiE1MCFExsDY_aem_Ms6d4f7Qx3ABIUXa6xSDeg
+
 https://github.com/code-423n4/2024-07-loopfi-findings/issues/19
+
 
