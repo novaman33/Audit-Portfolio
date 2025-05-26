@@ -59,3 +59,7 @@ For private audits, I can be contacted through Twitter or Discord.
 | May 2025  | GogoPool   | BailSec                 |  To be disclosed  | 
 
 ---
+## Interesting Issues
+https://github.com/sherlock-audit/2024-06-leveraged-vaults-judging/issues/14
+https://github.com/code-423n4/2024-07-loopfi-findings/issues/19
+
