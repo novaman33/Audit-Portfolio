@@ -54,7 +54,7 @@ For private audits, I can be contacted through Twitter or Discord.
 | Apr 2025  | Nome StabFundV2    | BailSec                 |  To be disclosed  |  
 | Apr 2025  | H3rmes    | BailSec                 |  To be disclosed  |  
 | Apr 2025  | 1inch - Taker Fees    | BailSec                 |  To be disclosed  | 
-| Apr 2025  | Atlantis   | BailSec                 |  To be disclosed  | 
+| Apr 2025  | Atlantis   | BailSec                 |  [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf)  | 
 | May 2025  | Lista Providers   | BailSec                 |  To be disclosed  | 
 | May 2025  | GogoPool   | BailSec                 |  To be disclosed  | 
 
