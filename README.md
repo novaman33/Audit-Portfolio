@@ -57,6 +57,8 @@ For private audits, I can be contacted through Twitter or Discord.
 | Apr 2025  | Atlantis   | BailSec                 |  [Report](https://github.com/bailsec/BailSec/blob/main/Bailsec%20-%20Atlantis%20-%20Final%20Report.pdf)  | 
 | May 2025  | Lista Providers   | BailSec                 |  To be disclosed  | 
 | May 2025  | GogoPool   | BailSec                 |  To be disclosed  | 
+| May 2025  | Inception II   | BailSec                 |  To be disclosed  | 
+| June 2025  | Hyperdrive Markets   | BailSec                 |  To be disclosed  | 
 
 ---
 ## Interesting Issues
